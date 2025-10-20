@@ -1,1 +1,2 @@
-# ra-unalni-ki-praktikum
+# Računalniški praktikum
+nove bližnjice (delano na Windowsu): - alt + tab (Omogoči menjavo med različnimi okni, brez pomoči miške. Ob pritisku se na zaslonu prikažejo vse odprte aplikacije/okna. Med njimi se premikaš tako da tipko alt držiš, ter pritiskaš tab); - ctrl + w (S to bližnjico lahko zapremo zavihke/dokumente brez uporabe miške.); - alt + puščica levo/desno ( S puščico levo se laho premikamo nazaj, z desno pa naprej. V besedilnih datotekah na spletu (npr. na tem portalu) pa nas puščica levo pomakne na začetek točke, puščica desno pa na konce točke.)
