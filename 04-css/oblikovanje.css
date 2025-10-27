@@ -46,6 +46,15 @@ h2 {
     padding: 2em;
     border-radius: 10px;
 }
-div  {
+.slika { 
     border: 2px solid red; 
+    font-size: 0.9em;
+    width: 40%;
+    text-align: left;
+    float: right
+    margin-left: 1em;
+}
+.slika img {
+    width: 100%;
+    height: auto;
 }
