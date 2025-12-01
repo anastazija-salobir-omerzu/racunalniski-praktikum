@@ -44,18 +44,22 @@
 \headcommand {\sectionentry {4}{Stolpci in slike}{30}{Stolpci in slike}{0}}
 \headcommand {\slideentry {4}{0}{1}{30/30}{}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\beamer@sectionpages {30}{30}}
-\headcommand {\beamer@subsectionpages {30}{30}}
-\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{31}{Paket \texttt {beamer} in tabele}{0}}
-\headcommand {\slideentry {5}{0}{1}{31/31}{}{0}}
-\headcommand {\beamer@framepages {31}{31}}
-\headcommand {\beamer@sectionpages {31}{31}}
-\headcommand {\beamer@subsectionpages {31}{31}}
-\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{32}{Matematika, 2. del}{0}}
-\headcommand {\slideentry {6}{0}{1}{32/32}{}{0}}
-\headcommand {\beamer@framepages {32}{32}}
-\headcommand {\beamer@partpages {1}{32}}
-\headcommand {\beamer@subsectionpages {32}{32}}
-\headcommand {\beamer@sectionpages {32}{32}}
-\headcommand {\beamer@documentpages {32}}
-\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\slideentry {4}{0}{2}{31/37}{}{0}}
+\headcommand {\beamer@framepages {31}{37}}
+\headcommand {\slideentry {4}{0}{3}{38/38}{}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@sectionpages {30}{38}}
+\headcommand {\beamer@subsectionpages {30}{38}}
+\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{39}{Paket \texttt {beamer} in tabele}{0}}
+\headcommand {\slideentry {5}{0}{1}{39/39}{}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@sectionpages {39}{39}}
+\headcommand {\beamer@subsectionpages {39}{39}}
+\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{40}{Matematika, 2. del}{0}}
+\headcommand {\slideentry {6}{0}{1}{40/40}{}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@partpages {1}{40}}
+\headcommand {\beamer@subsectionpages {40}{40}}
+\headcommand {\beamer@sectionpages {40}{40}}
+\headcommand {\beamer@documentpages {40}}
+\headcommand {\gdef \inserttotalframenumber {15}}
